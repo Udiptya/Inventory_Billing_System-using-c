@@ -1,0 +1,13 @@
+
+# Compiled executable
+*.exe
+
+# Object files
+*.o
+
+# Generated inventory and billing data
+products.txt
+billing.txt
+
+# IDE settings
+.vscode/
